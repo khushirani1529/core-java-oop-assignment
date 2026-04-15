@@ -1,7 +1,7 @@
 # Student Product Billing & Management System
 
 ## Author
-[Your Name]
+Khushi Rani
 
 ## Date
 April 15, 2026
